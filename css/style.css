@@ -27,18 +27,19 @@ hr{
 }
 .link-primary{
     background-color:var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 3px;
     color: white;
     
 }
 .link-secondary{
     color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 3px;
     border: 1px solid var(--primary-color);
    }
 /* list */
 .list-non-bullet{
     list-style: none;
+ 
 }
 .list-item-inline{
     display: inline;

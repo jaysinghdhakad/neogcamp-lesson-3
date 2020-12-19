@@ -31,12 +31,14 @@ hr{
     color: white;
     padding: 0.2rem;
     
+    
 }
 .link-secondary{
     color: var(--primary-color);
     border-radius: 3px;
     border: 1px solid var(--primary-color);
     padding: 0.2rem;
+    margin-left:1rem;
    }
 /* list */
 .list-non-bullet{

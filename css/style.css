@@ -102,6 +102,7 @@ hr{
      border-top-right-radius: 1rem;
      position:fixed;
      bottom:0%;
+     width: 100%;
 }
 .footer .link{
     color: white;

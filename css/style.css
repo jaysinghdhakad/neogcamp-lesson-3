@@ -7,7 +7,7 @@
 }
 body{
     font-family: 'Montserrat', sans-serif;
-    margin: auto auto;
+    margin: 0px;
 }
 hr{
     margin: 2rem 0rem;
@@ -100,6 +100,8 @@ hr{
      text-align: center;
      color: white;
      border-top-right-radius: 1rem;
+     position:fixed;
+     bottom:0%;
 }
 .footer .link{
     color: white;
